@@ -1,0 +1,42 @@
+Bebidas, Jugo hit mora, 2000, Jugo de mora en botella plástica de 300ml.
+Bebidas, Jugo hit lulo, 2000, Jugo de lulo en botella plástica de 300ml.
+Bebidas, Jugo hit fresa, 2000, Jugo de fresa en botella plástica de 300ml.
+Bebidas, Jugo hit mango, 2000, Jugo de mango en botella plástica de 300ml.
+Bebidas, Jugo hit tropical, 2000, Jugo tropical en botella plástica de 300ml.
+Bebidas, Coca Cola, 3000, Bebida gaseosa en botella plástica de 350ml.
+Bebidas, Coca Cola Zero, 2800, Bebida gaseosa sin azúcar en botella plástica de 350ml.
+Bebidas, Pepsi, 2500, Bebida gaseosa en botella plástica de 350ml.
+Bebidas, Pepsi Zero, 2500, Bebida gaseosa sin azúcar en botella plástica de 350ml.
+Bebidas, Fanta, 4000, Bebida gaseosa de naranja en botella plástica de 250ml.
+Bebidas, 7Up, 2500, Bebida gaseosa en botella plástica de 250ml.
+Bebidas, Quatro, 2500, Bebida gaseosa de toronja en botella plástica de 250ml.
+Dulces, Chocolatina Jet, 1500, Chocolatina de leche en barra de 30g.
+Dulces, Chocolatina Jumbo, 2500, Barra de chocolate con maní de 50g.
+Dulces, Bon Bon Bum fresa, 500, Bombón relleno sabor fresa de 15g.
+Dulces, Mentas Trululu, 1200, Caramelos masticables sabor menta de 50g.
+Dulces, Gomitas Trululu, 2000, Gomitas surtidas en paquete de 80g.
+Dulces, Chocoramo, 2500, Ponqué cubierto de chocolate de 65g.
+Dulces, Barrilete, 1000, Caramelo duro surtido de 40g.
+Dulces, Galleta Festival chocolate, 2000, Galleta rellena sabor chocolate de 55g.
+Empaquetados, Papas Margarita natural, 2500, Papas fritas sabor natural en paquete de 105g.
+Empaquetados, Papas Margarita limón, 2500, Papas fritas sabor limón en paquete de 105g.
+Empaquetados, Papas Margarita BBQ, 2500, Papas fritas sabor BBQ en paquete de 105g.
+Empaquetados, Chitos, 2000, Pasabocas de maíz sabor queso en paquete de 90g.
+Empaquetados, Doritos, 3000, Nachos sabor queso en paquete de 120g.
+Empaquetados, Galletas Ducales, 1800, Galletas saladas en paquete de 120g.
+Empaquetados, Galletas Oreo, 3000, Galletas rellenas de crema en paquete de 108g.
+Empaquetados, Tosh integral, 3500, Galletas integrales en paquete de 9 unidades.
+Ropa, Camiseta básica blanca, 25000, Camiseta de algodón color blanco talla estándar.
+Ropa, Camiseta básica negra, 25000, Camiseta de algodón color negro talla estándar.
+Ropa, Jean clásico azul, 80000, Pantalón jean azul clásico para hombre.
+Ropa, Sudadera gris, 60000, Pantalón deportivo color gris algodón.
+Ropa, Chaqueta deportiva, 90000, Chaqueta liviana deportiva con cierre frontal.
+Ropa, Medias blancas, 10000, Par de medias blancas de algodón talla única.
+Ropa, Gorra negra, 20000, Gorra ajustable color negro.
+Cárnicos, Pechuga de pollo, 12000, Pechuga de pollo fresca por kilogramo.
+Cárnicos, Carne molida, 18000, Carne molida de res por kilogramo.
+Cárnicos, Chorizo, 15000, Chorizo de cerdo por kilogramo.
+Cárnicos, Salchicha ranchera, 14000, Salchicha tipo ranchera paquete de 500g.
+Cárnicos, Costilla de cerdo, 22000, Costilla de cerdo fresca por kilogramo.
+Cárnicos, Lomo de cerdo, 20000, Lomo de cerdo fresco por kilogramo.
+Cárnicos, Alas de pollo, 11000, Alas de pollo frescas por kilogramo.
